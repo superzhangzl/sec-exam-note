@@ -64,7 +64,7 @@
 
 [附4 思维导图整理](./思维导图整理.md)
 
-
+[附5 信息安全技术课件合集](http://cc.jlu.edu.cn/G2S/Template/View.aspx?courseId=712&topMenuId=132132&action=view&type=&name=&menuType=1&curfolid=132689)
 
 成绩已出：
 
